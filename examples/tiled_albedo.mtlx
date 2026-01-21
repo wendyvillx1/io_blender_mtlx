@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<materialx version="1.39">
+  <surfacematerial name="surfacematerial" type="material" xpos="14.115942" ypos="0.198276">
+    <input name="surfaceshader" type="surfaceshader" output="output_surfaceshader" nodegraph="nodegraph1" />
+  </surfacematerial>
+  <nodegraph name="nodegraph1">
+    <open_pbr_surface name="open_pbr_surface_surfaceshader" type="surfaceshader" xpos="9.855072" ypos="7.525862">
+      <input name="base_color" type="color3" nodename="tiledimage_color3" />
+    </open_pbr_surface>
+    <tiledimage name="tiledimage_color3" type="color3" xpos="4.036232" ypos="4.801724">
+      <input name="file" type="filename" interfacename="Albedo" />
+      <input name="uvtiling" type="vector2" interfacename="Tiling" />
+    </tiledimage>
+    <output name="output_surfaceshader" type="surfaceshader" nodename="open_pbr_surface_surfaceshader" xpos="13.760870" ypos="7.844828" />
+    <input name="Albedo" type="filename" value="mtlx.png" xpos="2.130435" ypos="4.586207" fileprefix="" />
+    <input name="Tiling" type="vector2" value="1, 1" xpos="2.202899" ypos="5.577586" />
+  </nodegraph>
+</materialx>

@@ -1,0 +1,21 @@
+[project]
+name = "io-blender-mtlx"
+version = "0.1.0"
+description = "Blender integration for MaterialX files"
+readme = "README.md"
+requires-python = ">=3.11"
+authors = [
+    { name = "Frieder Erdmann, Activision" }
+]
+
+
+[tool.uv.sources]
+types-MaterialX = { git = "https://github.com/kwokcb/types-MaterialX" }
+
+[dependency-groups]
+dev = [
+    "fake-bpy-module-latest>=20251003",
+    "materialx>=1.39.4",
+    "types-MaterialX",
+    "types-usd>=24.5.2",
+]
